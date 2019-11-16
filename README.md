@@ -1,1 +1,0 @@
-# nurimertvural.github.io
