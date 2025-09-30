@@ -2,10 +2,11 @@
 layout: page
 permalink: /publications/
 title: publications
-description:  Papers are arranged in reverse chronological order, according to the date they are submitted to the arXiv.
+description:  Papers are arranged in reverse chronological order, according to the date they are submitted to the arXiv. 
 nav: true
 nav_order: 1
 ---
+\* denotes  alphabetical ordering.
 
 #### Submitted works
 1.  Nuri Mert Vural, Alberto Bietti, Mahdi Soltanolkotabi, Denny Wu. "Learning to Recall with Transformers Beyond Orthogonal Embeddings." 2025.
