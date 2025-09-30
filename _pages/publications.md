@@ -19,6 +19,6 @@ nav_order: 1
 
 #### Pre-PHD conference and journal papers    
 5. Nuri Mert Vural,  Fatih İlhan, Selim Yılmaz, Salih Ergüt, Süleyman S. Kozat.  [Achieving Online Regression Performance of LSTMs with Simple RNNs](https://arxiv.org/abs/2005.08948). *IEEE Transactions on Neural Networks and Learning Systems*,    2022. 
-6. Nuri Mert Vural,  Salih Ergüt,  Süleyman S. Kozat. [An Efficient and Effective Second-Order Training Algorithm for LSTM-based Adaptive Learning](https://arxiv.org/abs/1910.09857) in *IEEE Transactions on Signal Processing*,  2021.  
+6. Nuri Mert Vural,  Salih Ergüt,  Süleyman S. Kozat. [An Efficient and Effective Second-Order Training Algorithm for LSTM-based Adaptive Learning](https://arxiv.org/abs/1910.09857). *IEEE Transactions on Signal Processing*,  2021.  
 7. Nuri Mert  Vural,  Hakan Gökçesu,  Kaan Gökçesu,   Süleyman S. Kozat. [Minimax Optimal Algorithms for Adversarial Bandit Problem with Multiple Plays](https://arxiv.org/abs/1911.11122).  *IEEE Transactions on Signal Processing*, 2019.  
 8. Nuri Mert Vural, Yiğit Yoleri, and Hamdi Torun. [On Feasibility of Near-Infrared Spectroscopy for Noninvasive Blood Glucose Measurements](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10885/2503852/On-feasibility-of-near-infrared-spectroscopy-for-noninvasive-blood-glucose/10.1117/12.2503852.short?SSO=1).   *SPIE Photonics West 2019* (20 February 2019). 
