@@ -33,5 +33,4 @@ Email: vural (at) cs (dot) toronto (dot) edu.
 ##### Selected works
 1. Gérard Ben Arous, Murat A. Erdogdu, Nuri Mert Vural, Denny Wu. [Learning Quadratic Neural Networks in High Dimensions: SGD Dynamics and Scaling Laws](https://arxiv.org/abs/2508.03688). *NeurIPS 2025*.  
 2. Nuri Mert Vural, Murat A. Erdogdu.  [Pruning is Optimal for Learning Sparse Features in High Dimensions](https://arxiv.org/abs/2406.08658). *COLT 2024*.
-3. Nuri Mert Vural, Lu Yu, Krishnakumar Balasubramanian, Stanislav Volgushev, Murat A. Erdogdu.  [Mirror Descent Strikes Again: Optimal Stochastic Convex Optimization under Infinite Noise Variance](https://arxiv.org/abs/2202.11632).  *COLT 2022*.
 
