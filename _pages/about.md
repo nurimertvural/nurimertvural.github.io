@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
                       
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -26,8 +26,12 @@ latest_posts:
 
 I’m a final-year PhD candidate in the Department of Computer Science at the University of Toronto, advised by [Murat Erdogdu](http://www.cs.toronto.edu/~erdogdu/), and affiliated with the [Vector Institute](https://vectorinstitute.ai).  In Summer 2025, I was a research intern at the Flatiron Institute [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), working with [Alberto Bietti](https://alberto.bietti.me) and [Denny Wu](https://dennywu1.github.io/index.html). Previously, I was a Master’s student in Electrical and Electronics Engineering at Bilkent University, supervised by [Suleyman S. Kozat](https://kilyos.ee.bilkent.edu.tr/~kozat/). 
 
-My current research focuses on the dynamics of gradient-based methods for high-dimensional problems, with an emphasis on neural network training. I have also worked on stochastic optimization, online learning, bandit algorithms, and nonconvex optimization. Selected papers appear below.
+My current research focuses on the dynamics of gradient-based methods for high-dimensional problems, with an emphasis on neural network training. I have also worked on stochastic optimization, online learning, bandit algorithms, and nonconvex optimization. Selected works appear below.
 
 Email: vural(at)cs(dot)toronto(dot)edu.
 
+### Selected works
+1. Gérard Ben Arous, Murat Erdogdu, Nuri Mert Vural, Denny Wu, [Learning quadratic neural networks in high dimensions: SGD dynamics and scaling laws](https://arxiv.org/abs/2508.03688), **NeurIPS 2025**. 
+2. Nuri Mert Vural, Murat Erdogdu, [Pruning is optimal for learning sparse features in high-dimensions](https://arxiv.org/abs/2406.08658)
+, **COLT 2024**.
 
