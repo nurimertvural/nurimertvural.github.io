@@ -8,7 +8,7 @@ profile:
   align: right
   image: pp.jpg
   image_circular: false # crops the image to make it circular
-  # more_info:  
+                      
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,10 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a final-year PhD candidate in Computer Science at the University of Toronto, advised by [Murat Erdogdu](http://www.cs.toronto.edu/~erdogdu/), and a [Vector Institute](https://vectorinstitute.ai) affiliate. In Summer 2025, I was a research associate at the Flatiron Institute [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), working with [Alberto Bietti](https://alberto.bietti.me) and [Denny Wu](https://dennywu1.github.io/index.html).
+I’m a final-year PhD candidate in the Department of Computer Science at the University of Toronto, advised by [Murat Erdogdu](http://www.cs.toronto.edu/~erdogdu/), and and affiliated with the [Vector Institute](https://vectorinstitute.ai).  In Summer 2025, I was a research intern at the Flatiron Institute’s [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), working with [Alberto Bietti](https://alberto.bietti.me) and [Denny Wu](https://dennywu1.github.io/index.html). Previously, I was a Master’s student in Electrical and Electronics Engineering at Bilkent University, supervised by [Suleyman S. Kozat](https://kilyos.ee.bilkent.edu.tr/~kozat/). 
 
-My work focuses on understanding the dynamics of gradient-based methods for high-dimensional problems, especially neural network training. I’ve also worked on stochastic optimization, online learning, bandit algorithms, and nonconvex optimization.
+My current research focuses on the dynamics of gradient-based methods for high-dimensional problems, with an emphasis on neural network training. I have also worked on stochastic optimization, online learning, bandit algorithms, and nonconvex optimization. Selected papers appear below.
 
-Contact: vural(at)cd(dot)toronto(dot)edu.
+Email: vural(at)cs(dot)toronto(dot)edu.
 
 
