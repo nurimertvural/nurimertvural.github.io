@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: * denotes alphabetical ordering or equal contribution. For complete list see \[[Google Scholar](https://scholar.google.ca)\]
+description: \* denotes alphabetical ordering or equal contribution. For complete list see \[[Google Scholar](https://scholar.google.ca)\]
 nav: true
 nav_order: 1
 ---
