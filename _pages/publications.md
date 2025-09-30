@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: \* denotes alphabetical ordering or equal contribution. For complete list see <a href='https://scholar.google.ca/citations?hl=en&user=sRXFZrUAAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>
+description:  <i class="fa-solid fa-asterisk"></i> denotes alphabetical ordering or equal contribution. For complete list see my <a href='https://scholar.google.ca/citations?hl=en&user=sRXFZrUAAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>.
 nav: true
 nav_order: 1
 ---
