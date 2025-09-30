@@ -2,21 +2,21 @@
 layout: page
 permalink: /publications/
 title: publications
-description: \* denotes alphabetical ordering or equal contribution. For complete list see <a href="https://scholar.google.ca/citations?user=sRXFZrUAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"> Google Scholar </a>
+description: * denotes alphabetical ordering or equal contribution. For complete list see \[[Google Scholar](https://scholar.google.ca/citations?user=sRXFZrUAAAAJ&hl=en&oi=ao)\]
 nav: true
 nav_order: 1
 ---
 
-### Submitted works
-1.  Nuri Mert Vural, Alberto Bietti, Mahdi Soltanolkotabi, Denny Wu. "Learning to recall with transformers beyond orthogonal embeddings," 2025.
+#### Submitted works
+1.  Nuri Mert Vural, Alberto Bietti, Mahdi Soltanolkotabi, Denny Wu. "Learning to Recall with Transformers Beyond Orthogonal Embeddings," 2025.
 
 
-### Conference papers
-1. Gérard Ben Arous\*, Murat A. Erdogdu\*, Nuri Mert Vural\*, Denny Wu\*. "Learning quadratic neural networks in high dimensions: SGD dynamics and scaling laws,"  in the *39th Conference on Neural Information Processing Systems* (NeurIPS 2025). \[[arXiv](https://arxiv.org/abs/2508.03688)\]
-2. Nuri Mert Vural, Murat A. Erdogdu. "Pruning is optimal for learning sparse features in high-dimensions," in the *37th Conference on Learning Theory* (COLT 2024).  \[[arXiv](https://arxiv.org/abs/2406.08658)\]
-3. Nuri Mert Vural, Lu Yu, Krishnakumar Balasubramanian, Stanislav Volgushev, Murat A. Erdogdu.  "Mirror descent strikes again: Optimal stochastic convex optimization under infinite noise variance," in the *35th Conference on Learning Theory* (COLT 2022). \[[arXiv](https://arxiv.org/abs/2202.11632)\]
+#### Conference papers
+1. Gérard Ben Arous\*, Murat A. Erdogdu\*, Nuri Mert Vural\*, Denny Wu\*. "Learning Quadratic Neural Networks in High Dimensions: SGD Dynamics and Scaling Laws,"  in the *39th Conference on Neural Information Processing Systems* (NeurIPS 2025). \[[arXiv](https://arxiv.org/abs/2508.03688)\]
+2. Nuri Mert Vural, Murat A. Erdogdu. "Pruning is Optimal for Learning Sparse Features in High-Dimensions," in the *37th Conference on Learning Theory* (COLT 2024).  \[[arXiv](https://arxiv.org/abs/2406.08658)\]
+3. Nuri Mert Vural, Lu Yu, Krishnakumar Balasubramanian, Stanislav Volgushev, Murat A. Erdogdu.  "Mirror Descent Strikes Again: Optimal Stochastic Convex Optimization Under Infinite Noise Variance," in the *35th Conference on Learning Theory* (COLT 2022). \[[arXiv](https://arxiv.org/abs/2202.11632)\]
 
-### Pre-PHD conference and journal papers    
+#### Pre-PHD conference and journal papers    
 1. Nuri Mert Vural,  Fatih İlhan, Selim Yılmaz, Salih Ergüt, Süleyman S. Kozat. "Achieving online regression performance of LSTMs with simple RNNs," in *IEEE Transactions on Neural Networks and Learning Systems*,    2022.  \[[arXiv](https://arxiv.org/abs/2005.08948)\]
 2. Nuri Mert Vural,  Salih Ergüt,  Süleyman S. Kozat. "An efficient and effective second-order training algorithm for LSTM-based adaptive learning," in *IEEE Transactions on Signal Processing*,  2021.  \[[arXiv](https://arxiv.org/abs/1910.09857)\]
 3. Nuri Mert  Vural,  Hakan Gökçesu,  Kaan Gökçesu,   Süleyman S. Kozat. "Minimax optimal algorithms for adversarial bandit problem with multiple plays," in *IEEE Transactions on Signal Processing*, 2019. \[[arXiv](https://arxiv.org/abs/1911.11122)\]
