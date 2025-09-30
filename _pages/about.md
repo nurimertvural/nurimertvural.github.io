@@ -30,8 +30,7 @@ My current research focuses on the dynamics of gradient-based methods for high-d
 
 Email: vural(at)cs(dot)toronto(dot)edu.
 
-### Selected works
-1. Gérard Ben Arous, Murat Erdogdu, Nuri Mert Vural, Denny Wu, [Learning quadratic neural networks in high dimensions: SGD dynamics and scaling laws](https://arxiv.org/abs/2508.03688), **NeurIPS 2025**. 
-2. Nuri Mert Vural, Murat Erdogdu, [Pruning is optimal for learning sparse features in high-dimensions](https://arxiv.org/abs/2406.08658)
-, **COLT 2024**.
+#### Selected works
+1. Gérard Ben Arous, Murat A. Erdogdu, Nuri Mert Vural, Denny Wu, [Learning quadratic neural networks in high dimensions: SGD dynamics and scaling laws](https://arxiv.org/abs/2508.03688), NeurIPS 2025.
+2. Nuri Mert Vural, Murat A. Erdogdu, [Pruning is optimal for learning sparse features in high-dimensions](https://arxiv.org/abs/2406.08658), COLT 2024.
 
