@@ -26,7 +26,7 @@ latest_posts:
 
 I’m a final-year PhD candidate in the Department of Computer Science at the University of Toronto, advised by [Murat Erdogdu](http://www.cs.toronto.edu/~erdogdu/), and affiliated with the [Vector Institute](https://vectorinstitute.ai).  In Summer 2025, I was a research intern at the Flatiron Institute [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), working with [Alberto Bietti](https://alberto.bietti.me) and [Denny Wu](https://dennywu1.github.io/index.html). Previously, I was a Master’s student in Electrical and Electronics Engineering at Bilkent University, supervised by [Süleyman S. Kozat](https://kilyos.ee.bilkent.edu.tr/~kozat/). 
 
-My research lies at the intersection of **optimization** and **statistics**. My PhD focuses on the dynamics of gradient-based methods in high-dimensional statistical settings, especially for neural network training. I’ve also worked on stochastic optimization, online learning, bandit algorithms, and non-convex optimization.
+My research lies at the intersection of **optimization** and **statistics**. My PhD work focuses on the dynamics of gradient-based methods in high-dimensional statistical settings, especially for neural network training. I’ve also worked on stochastic optimization, online learning, bandit algorithms, and non-convex optimization.
 
 Email: vural(at)cs(dot)toronto(dot)edu.
 
