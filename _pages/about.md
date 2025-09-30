@@ -28,9 +28,9 @@ I’m a final-year PhD candidate in the Department of Computer Science at the Un
 
 My current research focuses on the dynamics of gradient-based methods for high-dimensional problems, with an emphasis on neural network training. I have also worked on stochastic optimization, online learning, bandit algorithms, and nonconvex optimization. Selected works appear below.
 
-Email: vural(at)cs(dot)toronto(dot)edu.
+*Email:* vural(at)cs(dot)toronto(dot)edu.
 
-#### Selected works
+##### Selected works
 1. Gérard Ben Arous, Murat A. Erdogdu, Nuri Mert Vural, Denny Wu. "Learning Quadratic Neural Networks in High Dimensions: SGD Dynamics and Scaling Laws," *NeurIPS 2025*. \[[arXiv](https://arxiv.org/abs/2508.03688)\]
 2. Nuri Mert Vural, Murat A. Erdogdu. "Pruning is Optimal for Learning Sparse Features in High Dimensions," *COLT 2024*. \[[arXiv](https://arxiv.org/abs/2406.08658)\]
 
