@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a final-year PhD student in the [Department of Computer Science at the University of Toronto](https://web.cs.toronto.edu), advised by [Murat Erdogdu](http://www.cs.toronto.edu/~erdogdu/), and affiliated with the [Vector Institute](https://vectorinstitute.ai).  In Summer 2025, I was a research intern at the Flatiron Institute [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), working with [Alberto Bietti](https://alberto.bietti.me) and [Denny Wu](https://dennywu1.github.io/index.html). Previously, I completed an M.S. in Electrical and Electronics Engineering at Bilkent University, advised by [Süleyman Kozat](https://kilyos.ee.bilkent.edu.tr/~kozat/). 
+I’m a final-year PhD student in Computer Science at the University of Toronto, advised by [Murat A. Erdogdu](http://www.cs.toronto.edu/~erdogdu/), and affiliated with the [Vector Institute](https://vectorinstitute.ai).  In Summer 2025, I was a research intern at the Flatiron Institute [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), working with [Alberto Bietti](https://alberto.bietti.me) and [Denny Wu](https://dennywu1.github.io/index.html). Previously, I completed an M.S. in Electrical and Electronics Engineering at Bilkent University, advised by [Süleyman Kozat](https://kilyos.ee.bilkent.edu.tr/~kozat/). 
 
-My research lies at the intersection of **optimization** and **statistics**. My PhD work focuses on the dynamics of gradient-based methods in high-dimensional settings, with an emphasis on neural network training. I’ve also worked on stochastic optimization, online learning, bandit algorithms, and non-convex optimization.
+My research lies at the intersection of **optimization** and **statistics**. My PhD work focuses on the dynamics of gradient-based methods in high-dimensional settings, with an emphasis on neural network training. I have also worked on stochastic optimization, online learning, bandit algorithms, and non-convex optimization.
 
 Email: vural (at) cs (dot) toronto (dot) edu.
 
