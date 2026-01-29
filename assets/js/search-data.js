@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/nmv_resume.pdf";
+            window.location.href = "/assets/pdf/CV_Nuri_Mert_Vural.pdf";
           },
         },{id: "post-a-post-with-plotly-js",
         
