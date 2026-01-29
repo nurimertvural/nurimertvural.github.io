@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/nmv_resume.pdf
+permalink: /assets/pdf/CV_Nuri_Mert_Vural.pdf
 title: cv
 nav: true
 nav_order: 3
